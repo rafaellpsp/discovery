@@ -1,0 +1,53 @@
+[
+    {
+        "DADOS DA LOJA": {
+            "Vendedor/Responsável": "",
+            "Telefones": "",
+            "E-mail": "",
+            "Nome da Loja / Razão Social": "",
+            "CNPJ": "",
+            "Endereço": "",
+            "Bairro": "",
+            "Cidade": "",
+            "UF": "",
+            "CEP": "",
+            "_Pais": ""
+        },
+        "DADOS DO PRODUTO": {
+            "P1": {
+                "Código e nome do produto": "",
+                "Código ou nome da cor": "",
+                "Lote": "",
+                "Validade": "",
+                "Quantidade": "",
+                "_Produto": "",
+                "_Tamanho": ""
+            }
+        },
+        "DADOS DO CLIENTE/OBRA/CONSUMIDOR": {
+            "Nome": "",
+            "CPF / CNPJ": "",
+            "Razão Social": "",
+            "Telefone": "",
+            "E-mail": "",
+            "Endereço": "",
+            "Bairro": "",
+            "Cidade": "",
+            "UF": "",
+            "CEP": "",
+            "_Pais": ""
+        },
+        "PREPARAÇÃO DA SUPERFÍCIE / APLICAÇÃO": {
+            "Qual a data em que o produto foi aplicado?": "",
+            "Qual o tipo de superfície?": "",
+            "Trata-se de pintura nova ou repintura?": "",
+            "Foi utilizado algum tipo de fundo? Se sim, qual?": "",
+            "Quantas demãos foram aplicadas? Qual intervalo entre elas?": "",
+            "Qual a diluição utilizada?": ""
+        },
+        "DETALHAR COMO A SUPERFÍCIE FOI PREPARADA": "",
+        "RELATO DO PROBLEMA": "",
+        "_PROBLEMA": "",
+        "_TECNICO": ""
+    }
+]

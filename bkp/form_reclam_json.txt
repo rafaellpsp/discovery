@@ -1,0 +1,71 @@
+{
+  "DADOS DA LOJA": {
+    "Vendedor": "",
+    "Telefone 1": "",
+    "Email": "",
+    "Loja": "",
+    "CNPJ": "",
+    "Brlacg": "",
+    "Endereco completo": "", 
+    "Bairro":"",
+    "Cidade": "",
+    "Estado":"",
+    "Pais":"Brasil",
+    "Cep":""
+  },
+  "DADOS DO PRODUTO": {
+    "P1":{
+      "Codigo":"",
+      "Nproduto": "",
+      "Tamanho": "",
+      "Quantidade": "",
+      "Cod. ou nome da cor": "",
+      "Validade": "",
+      "LOTE": ""
+    },
+    "P2":{
+      "Codigo":"",
+      "Nproduto": "",
+      "Tamanho": "",
+      "Quantidade": "",
+      "Cod. ou nome da cor": "",
+      "Validade": "",
+      "LOTE": ""
+    },
+    "P3":{
+      "Codigo":"",
+      "Nproduto": "",
+      "Tamanho": "",
+      "Quantidade": "",
+      "Cod. ou nome da cor": "",
+      "Validade": "",
+      "LOTE": ""
+    }
+  },
+  "DADOS_DA_OBRA_CONSUMIDOR_FINAL": {
+    "Nome": "",
+    "Telefone 1": "",
+    "Telefone 2": "",
+    "Email": "",
+    "CNPJ": "",
+    "Razao Social": "",
+    "Endereco completo": "",
+    "Bairro": "",
+    "Cidade": "",
+    "Estado": "",
+    "CEP": "",
+    "Pais":""
+  },
+  "PREPARACAO DA SUPERFICIE APLICACAO": {
+    "Qual a data em que o produto foi aplicado": "",
+    "Qual o tipo de superficie": "",
+    "Trata_se de pintura nova ou repintura": "",
+    "Foi utilizado algum tipo de fundo Se sim qual": "",
+    "Quantas demãos foram aplicadas  Qual intervalo entre elas": "",
+    "Qual a diluicao utilizada": ""
+  },
+  "DETALHAR COMO A SUPERFICIE FOI PREPARADA": "",
+  "PROBLEMA":"",
+  "RELATO DO PROBLEMA": "",
+  "TECNICO":""
+}
